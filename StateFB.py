@@ -2,9 +2,6 @@
 This code shows a trajectory tracking of a chai  
 of integrators system 
 
-Note : To run the script type in terminal:
-        pip install numpy
-        pip install scipy
 """
 
 
